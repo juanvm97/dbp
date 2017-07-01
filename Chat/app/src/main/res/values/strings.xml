@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="action_settings">Settings</string>
+    <string name="buton1_menu_opt1">Settings</string>
+    <string name="buton1_menu_opt2">Settings</string>
+</resources>
